@@ -15,7 +15,8 @@ Our solution leverages Intel's Neural Chat LLM for local inference on CPU, makin
 - **Langchain & CTransformers:** Frameworks used for orchestration.
 
 ## Getting Started
-
+###link to the model: https://huggingface.co/TheBloke/neural-chat-7B-v3-1-GGUF/blob/main/neural-chat-7b-v3-1.Q4_K_M.gguf
+Please make sure to download the model from this website and place it in the directory.
 ### Prerequisites
 1. **Clone the Repository:**
    ```bash
